@@ -1,4 +1,6 @@
-# Model of the interactions between three reactive chemicals on a grid using finite difference methods. This problem was taken from a past paper (paper.pdf).
+# Chemical concentrations model
+
+## Model of the interactions between three reactive chemicals on a grid using finite difference methods. This problem was taken from a past paper (paper.pdf).
 
 * concentrations(abc).py contains the project code split into the tasks in paper.pdf.
 * periods.png shows how the concentrations change over time.
